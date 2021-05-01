@@ -16,8 +16,9 @@ h1 {
 p {
     color: hsla(0, 0%, 100%, 0.75);
     padding-left: 2.5em;
-    padding-right: 2.5em;
+    padding-right: 3em;
     line-height: 2em;
+    font-size: 1em;
 }
 
 img {
